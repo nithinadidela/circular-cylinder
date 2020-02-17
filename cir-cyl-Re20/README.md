@@ -10,10 +10,10 @@ The  simulation is tested with OpenFOAM v7 in serial as well as parallel modes i
 
 ## Highlights 
 
-* Reynolds number 200 
+* Reynolds number 20 
 * Inlet Velocity Ux = 1 m/s
 * Diameter of the cylinder =1 m
-* Kinematic Viscosity = 0.005 m2/s
+* Kinematic Viscosity = 0.05 m2/s
 
 ## Domain Description
 
