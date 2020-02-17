@@ -1,4 +1,4 @@
-# Laminar flow over a circular cylinder simulation with OpenFOAM v7
+# Laminar flow over a circular cylinder simulation with OpenFOAM v7 at Reynolds number 200
 ​
 This is a part of our undergraduate project titled 'Aeroelastic modelling of insect flight' carried out in the school of Mechanical sciences, Indian Institute of Technology Goa.
 
@@ -10,7 +10,7 @@ The  simulation is tested with OpenFOAM v7 in serial as well as parallel modes i
 
 ## Highlights 
 
-Reynold's number 200
+Reynolds number 200
 Inlet Velocity Ux = 1 m/s
 Diameter of the cylinder =1 m
 Kinematice Viscosity = 0.005 m2/s
