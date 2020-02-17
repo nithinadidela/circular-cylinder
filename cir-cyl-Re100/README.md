@@ -1,4 +1,4 @@
-# Laminar flow over a circular cylinder simulation with OpenFOAM v7
+# Laminar flow over a circular cylinder simulation with OpenFOAM v7 at Reynolds number 100
 ​
 This is a part of our undergraduate project titled 'Aeroelastic modelling of insect flight' carried out in the school of Mechanical sciences, Indian Institute of Technology Goa.
 
