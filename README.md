@@ -12,7 +12,7 @@ The  simulation is tested with OpenFOAM v7 in serial as well as parallel modes i
 
 The domain is a rectangle of length of 33 m, height of 16 m and a width of 1 m. The boundingBox is (-8 -8 -0.5) (25 8 0.5). The diameter of the circular cylinder is 1 m which is taken as the characteristic length. The cylinder is fixed, and its center is located at (0,0,0). From the center of the cylinder the domain expands for  25 characteristic lengths (25D = 25 m) to the right, 8 characteristic lengths (8D = 8 m)  to the left, 8 characteristic lengths to the top (8D = 8 m) and 8 characteristic lengths to the bottom (8D = 8 m). The domain for fixed flow over circular cylinder can be seen in figure.
 
-A fine mesh is required near the periphery of the cylinder of the cylinder as well as the wake region and a gradual mesh grading is done to get a coarse mesh at the boundaries. The meshing is achieved with the help of blockMesh. The number of mesh points is 1,27,912. The number of mesh cells produced is 63,420. The mesh over the whole domain as well as a close-up view of the mesh around the cylinder for fixed flow over circular cylinder can be seen in figure.
+A fine mesh is required near the periphery of the cylinder of the cylinder as well as the wake region and a gradual mesh grading is done to get a coarse mesh at the boundaries. The meshing is achieved with the help of blockMesh. The number of mesh points is 1,27,912. The number of mesh cells produced is 63,420. 
 
 ## Boundary Conditions
 
