@@ -16,7 +16,7 @@ A fine mesh is required near the periphery of the cylinder of the cylinder as we
 
 ## Boundary Conditions
 
-Velocity boundary conditions applied are, at the inlet, uniform fixed velocity is applied. Ux is 1 m/s; Uy is 0 1 m/s; Uz is 0 1 m/s. At the outlet a Newman condition is applied with zeroGradient. 
+Velocity boundary conditions applied are, at the inlet, uniform fixed velocity is applied. Ux is 1 m/s; Uy is 0 m/s; Uz is 0 m/s. At the outlet a Newman condition is applied with zeroGradient. 
 
 Pressure boundary conditions applied are, at the inlet a Neumann condition is applied with zeroGradient. At the outlet a uniform fixed value of 0 is applied. 
 
